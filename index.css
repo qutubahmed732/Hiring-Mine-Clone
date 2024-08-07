@@ -1,0 +1,165 @@
+@media(max-width:1050px){
+  .header_wrraper{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .home1{
+    padding-left: 0%;
+    padding-right: 0%;
+  }
+  .home2{
+    padding-left: 0%;
+    padding-right: 0%;
+  }
+  .header_wrraper{
+    padding-left: 0%;
+    padding-right: 0%;
+  }
+  .find-job{
+    padding-left: 0%;
+    padding-right: 0%;
+  }
+  .field{
+    padding-left: 0%;
+    padding-right: 0%;
+  }
+  .comming_soon{
+    padding-left: 0%;
+    padding-right: 0%;
+  }
+  .latest_job{
+    padding-left: 0%;
+    padding-right: 0%;
+  }
+  .comming_soon{
+    padding-left: 0%;
+    padding-right: 0%;
+  }
+  .first_footer{
+    padding-left: 0px;
+    padding-right: 0px;
+ 
+}
+
+}
+@media(min-width:600px) and (max-width:900px){
+   .home1{
+    padding-left: 0%;
+    padding-right: 0%;
+  }  
+  .comming_soon{
+    display: none;
+  }
+  .box-1{
+    width: 90%;
+  }
+  .box-2{
+    display: none;
+  }
+  .carda{
+    width: 50%;
+  }
+  .cardb{
+    width: 50%;
+  }
+  .cardc{
+    width: 50%;
+  }
+  .footer{
+    margin-top: 80px;
+    flex-direction: column;
+  }
+  .first_footer{
+    padding: 20px 10px 20px 10px;
+    margin: 0%;
+    
+  }
+  
+}
+
+@media (max-width:599px){
+  body{
+    box-sizing: border-box;
+    background-color: rgb(247, 241, 241);
+  }
+  .mian-form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+  }
+  .form1{
+    width: 100%;
+    
+  }
+  .main-btn1{
+    margin: 15px 0 0 0;
+  }
+  .home2{
+    display: none;
+  }
+  .hired{
+    text-align: left;
+    margin-top: 0% !important;
+    
+   
+  }
+  .hired h1{
+    font-size: 1.8rem;
+  }
+  .field h1{
+    font-size: 1.8rem;
+    padding: 0% !important;
+    text-align: left !important;
+   
+  }
+  
+  .latest_job h1{
+    font-size: 1.8rem;
+    
+  }
+  .comming_soon{
+    display: none;
+  }
+  .first_footer{
+    margin-top: 60px;
+    padding: 50px 20px 10px 20px;
+    flex-direction: column !important;
+  }
+  .social_icon{
+    width: 100%;
+  }
+  .footer_end{
+    padding: 0 0 10px 0 ;
+  }
+  .contact{
+    align-items: start;
+  }
+  .contact h4{
+    
+    font-size: 1rem;
+   
+    font-weight: 500;
+    margin-bottom: 15px;
+  }
+ 
+  .carda{
+    width: 100%;
+  }
+  .cardb{
+    width: 100%;
+  }
+  .cardc{
+    width: 100%;
+  }
+  .home1{
+    
+    padding: 40px 0 0 0;
+  }
+ .home1 h1{
+    font-size: 1.8rem;
+  }
+  h2{
+    font-size: 1rem;
+  }
+}
